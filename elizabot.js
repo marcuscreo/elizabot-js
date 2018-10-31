@@ -645,7 +645,7 @@ function ElizaBot(noRandomFlag) {
 		"cannot": ["can't"],
 		"desire": ["want", "need"],
 		"everyone": ["everybody", "nobody", "noone"],
-		"family": ["mother", "mom", "father", "dad", "sister", "brother", "wife", "children", "child", "uncle", "aunt", "child"],
+		"family": ["manager", "boss", "executive", "leader", "co-worker", "peer", "user", "team", "developer", "stakeholder", "architect", "programmer", "developer","engineer"],
 		"happy": ["elated", "glad", "better"],
 		"sad": ["unhappy", "depressed", "sick"]
 	};
